@@ -1,4 +1,4 @@
-## Project 5: Santander Product Recommendation 
+## Santander Bank Product Recommendation (Kaggle)
 
 I used Python 2.7 for this project. Most of the libraries used were part of scikit-learn, pandas, and numpy, although not all.  I had to create an environment for XGBoost's API with scikit-learn. I included the required libraries in the Juypter Notebook which contains my code. The project is written in a PDF and follows my code in terms of flow and organization. 
 
